@@ -1,6 +1,6 @@
 # Análisis de ventas y márgen de ganancia
 
-## ObjetivoS
+## Objetivos
 
 1. Analizar un dataset de ventas para medir KPI's financieros y de rentabilidad para identificar los ingresos, márgenes de ganancia y bajos desempeños según la categoría del producto y la región del país donde se venden.
 

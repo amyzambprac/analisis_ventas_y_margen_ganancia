@@ -14,4 +14,25 @@
 4. Power BI
 5. DAX en Power BI
 
-## Resultado
+## Proceso de análisis
+
+### Datos utilizados
+
+
+
+
+### Limpieza y transformación
+
+
+
+
+## Resultados
+
+
+
+
+## Conclusiones
+
+
+
+## Insight:

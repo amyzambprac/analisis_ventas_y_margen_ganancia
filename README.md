@@ -20,8 +20,7 @@ Este análisis plantea las siguientes interrogantes para identificar las referen
 
 1. ¿Qué categoría genera más ingreso total?
 2. ¿Qué región tiene mejor margen de ganancia?
-3. ¿Qué subcategorías están destruyendo margen?
-
+3. ¿Qué subcategorías están en pérdida?
 
 ### Datos utilizados
 
@@ -29,6 +28,9 @@ Este análisis plantea las siguientes interrogantes para identificar las referen
 
 
 ### Limpieza y transformación
+
+
+
 
 
 

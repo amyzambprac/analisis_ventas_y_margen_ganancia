@@ -16,6 +16,13 @@
 
 ## Proceso de análisis
 
+Este análisis plantea las siguientes interrogantes para identificar las referencias de los KPI's financieros y rentabilidad: 
+
+1. ¿Qué categoría genera más ingreso total?
+2. ¿Qué región tiene mejor margen de ganancia?
+3. ¿Qué subcategorías están destruyendo margen?
+
+
 ### Datos utilizados
 
 

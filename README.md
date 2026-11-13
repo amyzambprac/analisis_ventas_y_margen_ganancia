@@ -45,21 +45,21 @@ Posterior se usó Excel para encontrar las respuestas a las preguntas que nos pl
 
 La categoría que registró mayores ingresos totales fue la de *Electronics* con un valor de: $57.485.698,06.
 
-![Categoria con mayor ingreso](imagen_1.png)
+![Categoria con mayor ingreso](images/imagen_1.png)
 
 ### ¿Qué región tiene mejor margen de ganancia?
 
 La región *South* registró mejor margen que el resto con 23,58%. Para realizar esto se agregó una nueva columna a la tabla dinámica con la fórmula para determinar el margen Ganancias/Ingresos.
 
-![Region_mayor_ingreso](imagen_2.png)
+![Region_mayor_ingreso](images/imagen_2.png)
 
 ### ¿Qué subcategorías están en pérdida?
 
 Ninguna subcategoría está en pérdida, pero 6 son críticas, teniendo a *Laptops* con el margen de ganancia más bajo 14%. Para realizar esta tabla se creó una nueva hoja, una nueva tabla y las funciones de SUMIF, XLOOKUP, IF para tener una imagen visual sobre el estado de las subcategorías.
 
-![subcategorias](imagen_3.png)
+![subcategorias](images/imagen_3.png)
 
-![SEMAFORO](imagen_4.png)
+![SEMAFORO](images/imagen_4.png)
 
 
 ## Resultados

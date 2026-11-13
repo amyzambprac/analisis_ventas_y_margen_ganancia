@@ -24,8 +24,14 @@ Este análisis plantea las siguientes interrogantes para identificar las referen
 
 ### Datos utilizados
 
+Este conjunto de datos contiene 200.000 registros de ventas sintéticos que simulan transacciones reales de productos en diferentes regiones de Estados Unidos. 
 
+El conjunto de datos proporciona información detallada sobre las transacciones, incluyendo nombres de clientes, categorías de productos, precios y detalles de ingresos, lo que lo hace muy versátil tanto para principiantes como para analistas avanzados.
 
+### Estructura de los datos
+
+Filas: 200,000
+Columnas: 14
 
 ### Limpieza y transformación
 

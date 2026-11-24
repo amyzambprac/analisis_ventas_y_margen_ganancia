@@ -1,5 +1,8 @@
 # Análisis de ventas y márgen de ganancia - EXCEL y POWER BI
 
+## Power BI - Dashboard
+https://drive.google.com/file/d/1dwQAT9gMjeVRipDD82NiyZt8GoKQURPT/view?usp=sharing 
+
 ## Objetivos
 
 1. Analizar un dataset de ventas para medir KPI's financieros y de rentabilidad para identificar los ingresos, márgenes de ganancia y bajos desempeños según la categoría del producto y la región del país donde se venden.

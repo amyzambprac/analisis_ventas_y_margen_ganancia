@@ -67,3 +67,7 @@ Ninguna subcategoría está en pérdida, pero 6 son críticas, teniendo a *Lapto
 1. Electronics es la categoría con más ingreso: $57.485.698,06.
 2. South tiene el mejor margen: 23,58 %.
 3. Ninguna subcategoría está en pérdida, pero 6 son críticas, todas de Electronics, con márgenes de 13-14 %.
+
+## Power BI - Dashboard
+![Dashboard](images/imagen_5.png)
+

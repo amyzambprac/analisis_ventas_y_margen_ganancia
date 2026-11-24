@@ -59,7 +59,7 @@ La región *South* registró mejor margen que el resto con 23,58%. Para realizar
 
 ### ¿Qué subcategorías están en pérdida?
 
-Ninguna subcategoría está en pérdida, pero 6 son críticas, teniendo a *Laptops* con el margen de ganancia más bajo 14%. Para realizar esta tabla se creó una nueva hoja, una nueva tabla y las funciones de SUMIF, XLOOKUP, IF para tener una imagen visual sobre el estado de las subcategorías.
+Ninguna subcategoría está en pérdida, pero 6 son críticas, teniendo a *Laptops* con el margen de ganancia más bajo 14%. Para realizar esta tabla se creó una nueva hoja, una nueva tabla y las funciones de SUMIF, XLOOKUP, IF anidado y el semáforo para tener una imagen visual sobre el estado de las subcategorías.
 
 ![subcategorias](images/imagen_3.png)
 

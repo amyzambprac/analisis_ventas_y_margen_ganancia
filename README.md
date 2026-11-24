@@ -1,4 +1,4 @@
-# Análisis de ventas y márgen de ganancia - EXCEL y POWER BI
+# Análisis de ventas y margen de ganancia - EXCEL y POWER BI
 
 ## Power BI - Dashboard
 https://drive.google.com/file/d/1dwQAT9gMjeVRipDD82NiyZt8GoKQURPT/view?usp=sharing 
@@ -39,7 +39,8 @@ El conjunto de datos proporciona información detallada sobre las transacciones,
 
 ### Limpieza y transformación
 
-Al conocer que se tienen más de 100 mil registro se usó Power Query para el análisis exploratiorio. Se identificaron anomalías que podrían afectar el análisis por lo tanto se normalizaron y transformaron, como: el uso de la coma como separador de miles y el orden de la fecha (día/mes/año). 
+Se corrigió la interpretación de decimales (punto) y el formato de fecha (MM-DD-YY) usando la configuración regional Inglés (EE. UU.) en Power Query.
+
 Además, también se eliminaron duplicados y filas en blanco en la columna de order_id.
 
 Posterior se usó Excel para encontrar las respuestas a las preguntas que nos planteamos. Se realizó tres tablas dinámicas con los datos anteriormente normalizados.
@@ -71,6 +72,5 @@ Ninguna subcategoría está en pérdida, pero 6 son críticas, teniendo a *Lapto
 2. South tiene el mejor margen: 23,58 %.
 3. Ninguna subcategoría está en pérdida, pero 6 son críticas, todas de Electronics, con márgenes de 13-14 %.
 
-## Power BI - Dashboard
-![Dashboard](images/imagen_5.png)
+[Dashboard](images/imagen_5.png)
 

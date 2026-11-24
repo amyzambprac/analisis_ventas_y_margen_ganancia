@@ -53,7 +53,7 @@ La categoría que registró mayores ingresos totales fue la de *Electronics* con
 
 ### ¿Qué región tiene mejor margen de ganancia?
 
-La región *South* registró mejor margen que el resto con 23,58%. Para realizar esto se agregó una nueva columna a la tabla dinámica con la fórmula para determinar el margen Ganancias/Ingresos.
+La región *South* registró mejor margen que el resto con 23,58%. Para realizar esto se agregó una nueva columna a la tabla dinámica con la fórmula para determinar el margen total ganancias/total ingresos.
 
 ![Region_mayor_ingreso](images/imagen_2.png)
 
